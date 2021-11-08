@@ -21,7 +21,8 @@
     color: black
 }
 
-form input button{
-   color:  #4717F6;
+form #calculo{
+    border-radius: 4px;
+   background-color: #4717F6;
 }
 
