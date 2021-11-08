@@ -26,3 +26,9 @@ form #calculo{
    background-color: #4717F6;
 }
 
+label #altura,
+label #peso{
+    border: #4717F6 solid;
+    border-radius: 5px;
+}
+
