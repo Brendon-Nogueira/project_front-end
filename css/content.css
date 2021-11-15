@@ -93,7 +93,8 @@ main{
   }
 
   #altura,
-  #peso{
+  #peso,
+  #nome {
       font-family: sans-serif;
       color: black;
     
