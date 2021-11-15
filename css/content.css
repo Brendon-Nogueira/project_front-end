@@ -92,7 +92,3 @@ main{
     user-select: none;
   }
 
-  .container ::placeholder,
-.container ::-webkit-input-placeholder{
-    color: black
-}
