@@ -92,3 +92,9 @@ main{
     user-select: none;
   }
 
+  #altura,
+  #peso{
+      font-family: sans-serif;
+      color: black;
+    
+ }
