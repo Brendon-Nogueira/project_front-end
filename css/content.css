@@ -70,7 +70,7 @@ main{
     height: 40px;
     font: bold 1.2rem serif;
     background: #000;
-    color: #E7DFDD;
+    color:  #E7DFDD;
     outline: none;
     border-radius: 5px;
     cursor: pointer;
@@ -92,6 +92,7 @@ main{
     user-select: none;
   }
 
-  .container ::placeholder{
+  .container ::placeholder,
+.container ::-webkit-input-placeholder{
     color: black
-  }
+}
